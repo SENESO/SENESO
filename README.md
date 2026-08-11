@@ -58,11 +58,11 @@ A PHP project pushing the boundaries of what's possible with the language.
 
 <div align="center">
 
-[![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SENESO&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/SENESO)
+[![Eslam's GitHub stats](https://github-stats-extended.vercel.app/api?username=SENESO&show_icons=true&theme=radical&hide_border=true)](https://github.com/SENESO)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SENESO&layout=compact&theme=radical&hide_border=true)](https://github.com/SENESO)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SENESO&layout=compact&theme=radical&hide_border=true)](https://github.com/SENESO)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SENESO&theme=radical&hide_border=true)](https://github.com/SENESO)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SENESO&theme=radical&hide_border=true)](https://github.com/SENESO)
 
 </div>
 
@@ -73,6 +73,8 @@ A PHP project pushing the boundaries of what's possible with the language.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SENESO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/es07)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iodz36)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ElmistRo@outlook.com)
 
 </div>
