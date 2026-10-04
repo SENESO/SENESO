@@ -15,6 +15,8 @@
 
 ## 🧑‍💻 About Me
 
+
+
 I'm a software engineer who enjoys building **real, working products** — from full-stack web applications to low-level programming fundamentals. I focus on clean architecture, solid engineering practices, and shipping things that actually solve problems.
 
 - 🔭 Currently exploring **real-time collaboration** and **full-stack architecture**
@@ -32,8 +34,10 @@ I'm a software engineer who enjoys building **real, working products** — from 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
