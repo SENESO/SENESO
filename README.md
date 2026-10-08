@@ -17,7 +17,7 @@
 
 I'm a software engineer who enjoys building **real, working products** — from full-stack web applications to low-level programming fundamentals. I focus on clean architecture, solid engineering practices, and shipping things that actually solve problems.
 
-- 📦 Published **6 .NET SDKs on NuGet** — real libraries with tests, CI, and docs
+- 📦 Published **9 .NET SDKs on NuGet** — real libraries with tests, CI, and docs
 - 🔭 Currently exploring **real-time collaboration** and **full-stack architecture**
 - 🌱 Always learning — deep-diving into C#/.NET and backend engineering
 - 🎯 Strong foundation in **OOP, data structures, and algorithms**
@@ -26,6 +26,9 @@ I'm a software engineer who enjoys building **real, working products** — from 
 ---
 
 ## 📦 Published .NET SDKs
+
+
+
 
 Real, tested libraries on [NuGet](https://www.nuget.org/profiles/iodz36) — each with unit tests, GitHub Actions CI, and documentation.
 
@@ -70,7 +73,7 @@ dotnet add package EgyptId.Net
 
 ## 🚀 Featured Projects
 
-**The .NET SDK collection** — six MIT-licensed libraries on [NuGet](https://www.nuget.org/profiles/iodz36), each with unit tests and GitHub Actions CI:
+**The .NET SDK collection** — nine MIT-licensed libraries on [NuGet](https://www.nuget.org/profiles/iodz36), each with unit tests and GitHub Actions CI:
 
 - 📱 [WhatsAppCloud.Net](https://github.com/SENESO/WhatsAppCloud.Net) — SDK for Meta's WhatsApp Business Cloud API
 - 💳 [SENESO.Paymob.Net](https://github.com/SENESO/Paymob.Net) — SDK for the Paymob payment gateway
