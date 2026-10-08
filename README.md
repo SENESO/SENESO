@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Eslam Ashraf
 
-### Software Engineer · C#/.NET · PHP · JavaScript
+### Backend Developer · C#/.NET
 
 📍 Cairo, Egypt
 
@@ -15,14 +15,37 @@
 
 ## 🧑‍💻 About Me
 
-
-
 I'm a software engineer who enjoys building **real, working products** — from full-stack web applications to low-level programming fundamentals. I focus on clean architecture, solid engineering practices, and shipping things that actually solve problems.
 
+- 📦 Published **6 .NET SDKs on NuGet** — real libraries with tests, CI, and docs
 - 🔭 Currently exploring **real-time collaboration** and **full-stack architecture**
-- 🌱 Always learning — deep-diving into C#/.NET, PHP, and modern JavaScript
+- 🌱 Always learning — deep-diving into C#/.NET and backend engineering
 - 🎯 Strong foundation in **OOP, data structures, and algorithms**
-- 💬 Ask me about **C#, PHP, JavaScript, and building web apps from scratch**
+- 💬 Ask me about **C#, .NET, and building web apps from scratch**
+
+---
+
+## 📦 Published .NET SDKs
+
+Real, tested libraries on [NuGet](https://www.nuget.org/profiles/iodz36) — each with unit tests, GitHub Actions CI, and documentation.
+
+| Package | What it does |
+|---|---|
+| [![NuGet](https://img.shields.io/nuget/v/WhatsAppCloud.Net)](https://www.nuget.org/packages/WhatsAppCloud.Net) **[WhatsAppCloud.Net](https://github.com/SENESO/WhatsAppCloud.Net)** | .NET SDK for Meta's WhatsApp Business Cloud API — messages, templates, media, interactive buttons/lists, webhooks, HMAC validation |
+| [![NuGet](https://img.shields.io/nuget/v/SENESO.Paymob.Net)](https://www.nuget.org/packages/SENESO.Paymob.Net) **[SENESO.Paymob.Net](https://github.com/SENESO/Paymob.Net)** | .NET SDK for Paymob (Egypt) — checkout, HMAC-SHA512 callbacks, refund/void/capture, Intention API, ASP.NET Core DI |
+| [![NuGet](https://img.shields.io/nuget/v/Fawry.Net)](https://www.nuget.org/packages/Fawry.Net) **[Fawry.Net](https://github.com/SENESO/Fawry.Net)** | .NET SDK for Fawry payments — charge (Pay-at-Fawry, cards, mobile wallets), authorize/capture, callback signature verification |
+| [![NuGet](https://img.shields.io/nuget/v/Zatca.Net)](https://www.nuget.org/packages/Zatca.Net) **[Zatca.Net](https://github.com/SENESO/Zatca.Net)** | .NET SDK for Saudi ZATCA (Fatoora) e-invoicing — TLV/QR generation, hashing, ECDSA signing primitives |
+| [![NuGet](https://img.shields.io/nuget/v/EtaInvoice.Net)](https://www.nuget.org/packages/EtaInvoice.Net) **[EtaInvoice.Net](https://github.com/SENESO/EtaInvoice.Net)** | .NET SDK for Egypt's ETA e-invoicing — document submission, search, validation, typed API errors |
+| [![NuGet](https://img.shields.io/nuget/v/EgyptId.Net)](https://www.nuget.org/packages/EgyptId.Net) **[EgyptId.Net](https://github.com/SENESO/EgyptId.Net)** | Egyptian utilities — national ID parsing, mobile/carrier detection, landline area codes, Arabic text normalization |
+
+```bash
+dotnet add package WhatsAppCloud.Net
+dotnet add package SENESO.Paymob.Net
+dotnet add package Fawry.Net
+dotnet add package Zatca.Net
+dotnet add package EtaInvoice.Net
+dotnet add package EgyptId.Net
+```
 
 ---
 
@@ -49,6 +72,9 @@ A full-stack clone of Notion with **real-time collaboration** — database-like 
 
 ### 📣 [Social-Media-Manager](https://github.com/SENESO/Social-Media-Manager)
 A comprehensive social media management platform to **create, schedule, and publish posts** across multiple platforms — all from one dashboard.
+
+### ✉️ [FluentEmail](https://github.com/SENESO/FluentEmail) (revival)
+Revived the popular 3.2k⭐ email library: migrated to .NET 8, and added the long-requested Amazon SES sender.
 
 ### ⚡ [SpotX](https://github.com/SENESO/SpotX)
 A lightweight PHP framework focused on simplicity and developer experience.
@@ -86,5 +112,5 @@ A PHP project pushing the boundaries of what's possible with the language.
 ---
 
 <div align="center">
-<i>“First, solve the problem. Then, write the code.”</i> — John Johnson
+<i>"First, solve the problem. Then, write the code."</i> — John Johnson
 </div>
