@@ -93,31 +93,6 @@ dotnet add package EgyptId.Net
 
 </div>
 
-<div align="center">
-
-
-
-**The .NET SDK collection** — six MIT-licensed libraries on [NuGet](https://www.nuget.org/profiles/iodz36), each with unit tests and GitHub Actions CI:
-
-- 📱 [WhatsAppCloud.Net](https://github.com/SENESO/WhatsAppCloud.Net) — SDK for Meta's WhatsApp Business Cloud API
-- 💳 [SENESO.Paymob.Net](https://github.com/SENESO/Paymob.Net) — SDK for the Paymob payment gateway
-- 💳 [Fawry.Net](https://github.com/SENESO/Fawry.Net) — SDK for Fawry payments
-- 🧾 [Zatca.Net](https://github.com/SENESO/Zatca.Net) — SDK for Saudi ZATCA (Fatoora) e-invoicing
-- 🧾 [EtaInvoice.Net](https://github.com/SENESO/EtaInvoice.Net) — SDK for Egypt's ETA e-invoicing
-- 🪪 [EgyptId.Net](https://github.com/SENESO/EgyptId.Net) — Egyptian utilities: national ID parsing, phone/carrier detection, Arabic text tools
-
-**Also:** [notion-clone](https://github.com/SENESO/notion-clone) (real-time collaboration) · [Social-Media-Manager](https://github.com/SENESO/Social-Media-Manager) · [FluentEmail](https://github.com/SENESO/FluentEmail) revival (.NET 8 + Amazon SES) · [SpotX](https://github.com/SENESO/SpotX) · [Titan](https://github.com/SENESO/Titan)
-
-
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SENESO&layout=compact&theme=radical&hide_border=true)](https://github.com/SENESO)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SENESO&theme=radical&hide_border=true)](https://github.com/SENESO)</div></div>iv>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
