@@ -65,34 +65,54 @@ dotnet add package EgyptId.Net
 
 ---
 
+
+
+
 ## 🚀 Featured Projects
 
-### 📝 [notion-clone](https://github.com/SENESO/notion-clone) ⭐
-A full-stack clone of Notion with **real-time collaboration** — database-like blocks (tables, Kanban boards, calendars) powered by a PHP (Slim Framework) backend and a React frontend.
+**The .NET SDK collection** — six MIT-licensed libraries on [NuGet](https://www.nuget.org/profiles/iodz36), each with unit tests and GitHub Actions CI:
 
-### 📣 [Social-Media-Manager](https://github.com/SENESO/Social-Media-Manager)
-A comprehensive social media management platform to **create, schedule, and publish posts** across multiple platforms — all from one dashboard.
+- 📱 [WhatsAppCloud.Net](https://github.com/SENESO/WhatsAppCloud.Net) — SDK for Meta's WhatsApp Business Cloud API
+- 💳 [SENESO.Paymob.Net](https://github.com/SENESO/Paymob.Net) — SDK for the Paymob payment gateway
+- 💳 [Fawry.Net](https://github.com/SENESO/Fawry.Net) — SDK for Fawry payments
+- 🧾 [Zatca.Net](https://github.com/SENESO/Zatca.Net) — SDK for Saudi ZATCA (Fatoora) e-invoicing
+- 🧾 [EtaInvoice.Net](https://github.com/SENESO/EtaInvoice.Net) — SDK for Egypt's ETA e-invoicing
+- 🪪 [EgyptId.Net](https://github.com/SENESO/EgyptId.Net) — Egyptian utilities: national ID parsing, phone/carrier detection, Arabic text tools
 
-### ✉️ [FluentEmail](https://github.com/SENESO/FluentEmail) (revival)
-Revived the popular 3.2k⭐ email library: migrated to .NET 8, and added the long-requested Amazon SES sender.
+**Also:** [notion-clone](https://github.com/SENESO/notion-clone) (real-time collaboration) · [Social-Media-Manager](https://github.com/SENESO/Social-Media-Manager) · [FluentEmail](https://github.com/SENESO/FluentEmail) revival (.NET 8 + Amazon SES) · [SpotX](https://github.com/SENESO/SpotX) · [Titan](https://github.com/SENESO/Titan)
 
-### ⚡ [SpotX](https://github.com/SENESO/SpotX)
-A lightweight PHP framework focused on simplicity and developer experience.
 
-### 🛡️ [Titan](https://github.com/SENESO/Titan)
-A PHP project pushing the boundaries of what's possible with the language.
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-[![Eslam's GitHub stats](https://github-stats-extended.vercel.app/api?username=SENESO&show_icons=true&theme=radical&hide_border=true)](https://github.com/SENESO)
+
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SENESO&layout=compact&theme=radical&hide_border=true)](https://github.com/SENESO)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SENESO&theme=radical&hide_border=true)](https://github.com/SENESO)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SENESO&theme=radical&hide_border=true)](https://github.com/SENESO)</div></div>iv>
+
+</div>
+
+<div align="center">
+
+
+
+**The .NET SDK collection** — six MIT-licensed libraries on [NuGet](https://www.nuget.org/profiles/iodz36), each with unit tests and GitHub Actions CI:
+
+- 📱 [WhatsAppCloud.Net](https://github.com/SENESO/WhatsAppCloud.Net) — SDK for Meta's WhatsApp Business Cloud API
+- 💳 [SENESO.Paymob.Net](https://github.com/SENESO/Paymob.Net) — SDK for the Paymob payment gateway
+- 💳 [Fawry.Net](https://github.com/SENESO/Fawry.Net) — SDK for Fawry payments
+- 🧾 [Zatca.Net](https://github.com/SENESO/Zatca.Net) — SDK for Saudi ZATCA (Fatoora) e-invoicing
+- 🧾 [EtaInvoice.Net](https://github.com/SENESO/EtaInvoice.Net) — SDK for Egypt's ETA e-invoicing
+- 🪪 [EgyptId.Net](https://github.com/SENESO/EgyptId.Net) — Egyptian utilities: national ID parsing, phone/carrier detection, Arabic text tools
+
+**Also:** [notion-clone](https://github.com/SENESO/notion-clone) (real-time collaboration) · [Social-Media-Manager](https://github.com/SENESO/Social-Media-Manager) · [FluentEmail](https://github.com/SENESO/FluentEmail) revival (.NET 8 + Amazon SES) · [SpotX](https://github.com/SENESO/SpotX) · [Titan](https://github.com/SENESO/Titan)
+
+
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SENESO&layout=compact&theme=radical&hide_border=true)](https://github.com/SENESO)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SENESO&theme=radical&hide_border=true)](https://github.com/SENESO)</div></div>iv>
 
 </div>
 
